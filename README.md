@@ -42,10 +42,12 @@ To run the style transfer, follow these steps:
 1. Clone this repository:
 
         git clone https://github.com/kietran/Image-Style-Transfer.git
-        cd style-transfer
 
 2. Install dependencies:
-3. Run the style transfer script, a
+
+        pip install -r requirements.txt
+   
+3. Run the style transfer script: 
 
         python sv_model.py
 Once the script is running, the Flask server will start, and you can access the web interface at http://127.0.0.1:8888.
