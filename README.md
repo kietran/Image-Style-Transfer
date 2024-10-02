@@ -57,13 +57,13 @@ Simply open your browser, navigate to the URL, and enjoy experimenting with your
 
 Some output for experiments are shown below:
 
-<img src="demo/content-1.jpg" width="350">  <img src="demo/style-1.jpg" width="350"> <img src="demo/result-1.png" width="350">   
+<img src="demo/content-1.jpg" width="300">  <img src="demo/style-1.jpg" width="300"> <img src="demo/result-1.png" width="300">   
 
 
-<img src="demo/content-2.jpg" width="350">  <img src="demo/style-2.jpg" width="350"> <img src="demo/result-2.png" width="350">  
+<img src="demo/content-2.jpg" width="300">  <img src="demo/style-2.jpg" width="300"> <img src="demo/result-2.png" width="300">  
 
 
-<img src="demo/content-3.jpg" width="350">  <img src="demo/style-3.jpg" width="350"> <img src="demo/result-3.png" width="350">   
+<img src="demo/content-3.jpg" width="300">  <img src="demo/style-3.jpg" width="300"> <img src="demo/result-3.png" width="300">   
 
 ## Future Work
 - Experiment with different layers for content and style extraction to fine-tune the results.
